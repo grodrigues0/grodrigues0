@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="./img.png" style="margin: 2rem auto; width: 100%;">
 
-<!--
-**grodrigues0/grodrigues0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 style="margin-top:5rem"> 👨‍💻 • About me </h2>
+<ul>
+    <li>🚀 → Learning React</li>
+    <li>🏫 → Student at IFSP-BRA</li>
+</ul>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 style="margin-top:5rem">🔧 • Skills</h2>
+<div align="center" style="display: flex; justify-content: center; margin: 2rem; flex-wrap: wrap;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=50 height=40 style="margin: .25rem">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50 height=40 style="margin: .25rem">
+</div>
+
+<h2 style="margin-top:5rem">🔢 • Numbers and 📈</h2>
+<div align="center">
+
+![zmaderow's GitHub stats](https://github-readme-stats.vercel.app/api?username=zmaderow&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmaderow&theme=transparent&layout=compact)](https://github.com/zmaderow)
+
+</div>
